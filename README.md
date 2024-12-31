@@ -21,7 +21,7 @@ I'm a passionate developer with a growing expertise in **Python**, **web design*
 ## 📫 Get in Touch
 - **Blog**: [Tino Talks Tech](https://tinotenda.co)  
 - **Portfolio**: [tinotenda.me](https://tinotenda.me)   
-- **Email**: [hello@tinotenda.co](mailto:tino@ibglobal.org)
+- **Email**: [tino@ibglobal.org](mailto:tino@ibglobal.org)
 
 ---
 
