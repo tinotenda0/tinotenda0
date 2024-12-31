@@ -1,1 +1,29 @@
-I am a young, talented and multifaceted individual. With a passion for writing and creating visually stunning websites, Tinotenda has become a unique brand name for me in the online world. As a young blogger, Tinotenda shares insightful and engaging content on diverse topics, capturing the attention of readers worldwide. Alongside blogging, I offer top-notch web design services, craft websites that are user-friendly and aesthetically appealing. Armed with creativity, technical expertise and an eye for detail, I strive to bring each client's vision to life.
+# Hi there, I'm Tino 👋
+
+I'm a passionate developer with a growing expertise in **Python**, **web design**, and **full-stack development**. I love creating solutions that make a difference and crafting user-focused designs that solve real-world problems.
+
+---
+
+## 💻 Skills & Tools
+- **Languages**: Python, JavaScript
+- **Frameworks & Libraries**: Next.js, Tailwind CSS
+- **Tools**: Git, WordPress, VS Code
+
+---
+
+## 🚀 Featured Projects
+- [My Portfolio](https://tinotenda.me)  
+  A showcase of my web design and development projects.
+
+
+---
+
+## 📫 Get in Touch
+- **Blog**: [Tino Talks Tech](https://tinotenda.co)  
+- **Portfolio**: [tinotenda.me](https://tinotenda.me)   
+- **Email**: [hello@tinotenda.co](mailto:tino@ibglobal.org)
+
+---
+
+## 🌟 Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
