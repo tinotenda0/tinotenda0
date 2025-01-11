@@ -5,7 +5,7 @@ I'm a passionate developer with growing expertise and interest in **Python**, **
 ---
 
 ## 💻 Skills & Tools
-- **Languages**: Python, JavaScript
+- **Languages**: Python, a bit of JavaScript
 - **Frameworks & Libraries**: Next.js, Tailwind CSS
 - **Tools**: Git, WordPress, VS Code
 
@@ -13,7 +13,7 @@ I'm a passionate developer with growing expertise and interest in **Python**, **
 
 ## 🚀 Featured Projects
 - [My Portfolio](https://tinotenda.me)  
-  A showcase of my web design and development projects.
+  This is supposed to be a showcase of my web design and development projects but it's not done yet.
 
 
 ---
