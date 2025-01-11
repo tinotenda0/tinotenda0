@@ -25,5 +25,5 @@ I'm a passionate developer with growing expertise and interest in **Python**, **
 
 ---
 
-## 🌟 Quote
+## 🌟 Random Quote I found
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
