@@ -12,15 +12,12 @@ I'm an aspiring developer with growing expertise and interest in **Python**, **w
 ---
 
 ## 🚀 Featured Projects
-- [My Portfolio](https://tinotenda.me)  
-  This is supposed to be a showcase of my web design and development projects but it's not done yet.
-
+- **Blog**: [Tino Talks Tech](https://tinotenda.co)  
+- **Portfolio**: [tinotenda.me](https://tinotenda.me)
 
 ---
 
-## 📫 Get in Touch
-- **Blog**: [Tino Talks Tech](https://tinotenda.co)  
-- **Portfolio**: [tinotenda.me](https://tinotenda.me)   
+## 📫 Get in Touch   
 - **Email**: [tino@ibglobal.org](mailto:tino@ibglobal.org)
 
 ---
