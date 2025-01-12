@@ -14,6 +14,7 @@ I'm an aspiring developer with growing expertise and interest in **Python**, **w
 ## 🚀 Featured Projects
 - **Blog**: [Tino Talks Tech](https://tinotenda.co)  
 - **Portfolio**: [tinotenda.me](https://tinotenda.me)
+-  **IBZim**: [IBZim](https://ibzim.com)
 
 ---
 
