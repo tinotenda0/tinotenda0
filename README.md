@@ -24,4 +24,4 @@ I'm an aspiring developer with growing expertise and interest in Python, web des
 ---
 
 ## 🌟 Random Quote I found
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humour. When you have to explain it, it’s bad." – Cory House
