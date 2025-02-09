@@ -1,6 +1,6 @@
 # Hi there, I'm Tino 👋
 
-I'm an aspiring developer with growing expertise and interest in Python, web design, and full-stack development. I love creating solutions that make a difference and crafting user-focused designs that solve real-world problems.
+I'm an aspiring developer with growing expertie and interest in Python, web design, and full-stack development. I love creating solutions that make a difference and crafting user-focused designs that solve real-world problems.
 
 ---
 
