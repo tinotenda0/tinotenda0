@@ -11,14 +11,13 @@ I'm an aspiring developer with growing expertise and interest in Python, web des
 ---
 
 ## 🚀 Featured Projects
-- **Blog**: [Tino Talks Tech](https://tinotenda.co)  
-- **Portfolio**: [tinotenda.me](https://tinotenda.me)
+- **Blog and Portfolio**: [tinotenda.co](https://tinotenda.co)  
 -  **IBZim**: [IBZim](https://ibzim.com)
 
 ---
 
 ## 📫 Get in Touch   
-- **Email**: [tino@ibglobal.org](mailto:tino@ibglobal.org)
+- **Email**: [hello@tinotenda.me](mailto:hello@tinotenda.me)
 
 ---
 
