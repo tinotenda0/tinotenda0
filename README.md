@@ -6,7 +6,6 @@ I'm an aspiring developer with growing expertise and interest in Python, web des
 
 ## 💻 Skills & Tools
 - **Languages**: Python, a bit of JavaScript
-- **Frameworks & Libraries**: Next.js, Tailwind CSS
 - **Tools**: Git, WordPress, VS Code
 
 ---
