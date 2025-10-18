@@ -1,9 +1,5 @@
 # Hi there, I'm Tino 👋
 
-I'm an aspiring developer with growing expertise and interest in Python, web design, and JS Frameworks. I love creating solutions that make a difference and crafting user-focused designs that solve real-world problems.
-
----
-
 ## 💻 Skills & Tools
 - **Languages**: Python, a bit of JavaScript
 - **Tools**: Git, WordPress, VS Code
