@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Get in Touch   
-- **Email**: [hello@tinotenda.me](mailto:hello@tinotenda.me)
+- **Email**: [hello@tinotenda.me](mailto:hello@tinotenda.co)
 
 ---
 
